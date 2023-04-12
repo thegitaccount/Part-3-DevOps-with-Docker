@@ -5,7 +5,7 @@ EXPOSE 8080
 COPY . .
 RUN apk add --no-cache git && \
     go build && \
-    adduser testuser && \
+    adduser -D testuser && \
     chown testuser . && \
     rm -rf /var/cache/apk/*
 USER testuser
