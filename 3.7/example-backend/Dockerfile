@@ -3,8 +3,7 @@ WORKDIR /usr/src/app
 ENV REQUEST_ORIGIN=http://localhost:5000
 EXPOSE 8080
 COPY . .
-RUN apk add --no-cache git && \
-    go build && \
+RUN go build && \
     adduser -D testuser && \
     chown testuser . && \
     rm -rf /var/cache/apk/*
