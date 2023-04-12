@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+    frontend:
+      image: dockermann1/express_app_alpine
+      ports:
+        - 8080:8080
