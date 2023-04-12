@@ -1,0 +1,8 @@
+EPOSITORY                                   TAG       IMAGE ID       CREATED         SIZE           
+frontend_3.8                                 latest    d714be1317f3   5 seconds ago   129MB          
+frontend_3.7                                 latest    5f544c3dabac   2 hours ago     467MB          
+backend_3.7                                  latest    aea4f1a0eee5   2 hours ago     447MB          
+frontend_3.6                                 latest    8b0002b40056   3 hours ago     1.26GB         
+backend_3.6                                  latest    d47fad1dc569   4 hours ago     1.07GB
+backend_3.5                                  latest    97fad5f774c4   4 hours ago     1.07GB
+frontend_3.5                                 latest    8ea0949d5a2b   5 hours ago     1.26GB
