@@ -1,9 +1,9 @@
-REPOSITORY                                   TAG       IMAGE ID       CREATED              SIZE
-backend_3.9                                  latest    e8e91b57399c   About a minute ago   18.1MB
-frontend_3.8                                 latest    d714be1317f3   27 minutes ago       129MB
-frontend_3.7                                 latest    5f544c3dabac   2 hours ago          467MB
-backend_3.7                                  latest    aea4f1a0eee5   2 hours ago          447MB
-frontend_3.6                                 latest    8b0002b40056   4 hours ago          1.26GB
-backend_3.6                                  latest    d47fad1dc569   4 hours ago          1.07GB
-backend_3.5                                  latest    97fad5f774c4   5 hours ago          1.07GB
-frontend_3.5                                 latest    8ea0949d5a2b   5 hours ago          1.26GB
+REPOSITORY                                   TAG       IMAGE ID       CREATED         SIZE
+backend_3.9                                  latest    ea067f9d4d33   8 minutes ago   18.6MB
+frontend_3.8                                 latest    d714be1317f3   2 hours ago     129MB
+frontend_3.7                                 latest    5f544c3dabac   4 hours ago     467MB
+backend_3.7                                  latest    aea4f1a0eee5   4 hours ago     447MB
+frontend_3.6                                 latest    8b0002b40056   5 hours ago     1.26GB
+backend_3.6                                  latest    d47fad1dc569   5 hours ago     1.07GB
+backend_3.5                                  latest    97fad5f774c4   6 hours ago     1.07GB
+frontend_3.5                                 latest    8ea0949d5a2b   6 hours ago     1.26GB
